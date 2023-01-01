@@ -1,0 +1,11 @@
+CHILD: This is the child process! CHILD: My PID is 3821
+CHILD: My parent's PID is 3820
+CHILD: Enter my exit status (make it small): 
+CHILD: I'm outta here!
+PARENT: This is the parent process! PARENT: 
+My PID is 3820
+10
+PARENT: My child's PID is 3821
+PARENT: I'm now waiting for my child to exit()... 
+PARENT: My child's exit status is: 10
+PARENT: I'm outta here!

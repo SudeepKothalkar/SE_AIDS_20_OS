@@ -1,0 +1,77 @@
+********************************FCFS******************************
+INPUT
+Enter the number of processes -- 3
+Enter Burst Time for Process 0 -- 24
+Enter Burst Time for Process 1 -- 3
+Enter Burst Time for Process 2 -- 3
+
+OUTPUT
+PROCESS BURST TIME WAITING TIME TURNAROUND
+P0 24 0
+
+TIME
+24
+P1 3 24 27
+P2 3 27 30
+Average Waiting Time-- 17.000000
+Average Turnaround Time -- 27.000000
+******************************SJF*****************************
+INPUT
+Enter the number of processes -- 4
+Enter Burst Time for Process 0 -- 6
+Enter Burst Time for Process 1 -- 8
+Enter Burst Time for Process 2 -- 7
+Enter Burst Time for Process 3 -- 3
+OUTPUT
+PROCESS BURST WAITING TURNARO
+TIME TIME UND TIME
+
+P3 3 0 3
+P0 6 3 9
+P2 7 9 16
+P1 8 16 24
+Average Waiting Time -- 7.000000
+Average Turnaround Time -- 13.000000
+****************************Round Robin*************************
+INPUT
+Enter the no of processes – 3
+Enter Burst Time for process 1 – 24
+Enter Burst Time for process 2 -- 3
+Enter Burst Time for process 3 – 3
+Enter the size of time slice – 3
+OUTPUT:
+PROCESS BURST TIME WAITING TIME TURNAROUNDTIME
+1 24 6 30
+2 3 4 7
+3 3 7 10
+The Average Turnaround time is – 15.666667 
+The Average Waiting time is 5.666667
+**************************Priority**************************
+INPUT
+Enter the number of processes -- 5
+Enter the Burst Time &amp; Priority of Process 0 --- 10 3
+Enter the Burst Time &amp; Priority of Process 1 --- 1 1
+Enter the Burst Time &amp; Priority of Process 2 --- 2 4
+Enter the Burst Time &amp; Priority of Process 3 --- 1 5
+Enter the Burst Time &amp; Priority of Process 4 --- 5 2
+OUTPUT
+PROCESS 	PRIORITY 	BURST TIME	WAITING TIME
+1		1		1		0
+4		2		5		1	
+0		3		10		6	
+2		4		2		16
+3		5		1		18
+ 
+TURNAROUND TIME
+1
+6
+16
+18
+19
+
+Average Waiting Time is --- 8.200000
+Average Turnaround Time is 12.000000
+
+
+
+

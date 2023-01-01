@@ -1,0 +1,8 @@
+Child process starts 
+Child process 0 is called 
+Child process 1 is called 
+Child process 2 is called 
+Child process 3 is called 
+Child process 4 is called 
+Child process ends 
+Parent process ends

@@ -1,0 +1,27 @@
+Enter the number of pages:12
+Enter 12 Page Numbers:2
+3
+2
+1
+5
+2
+4
+5
+3
+2
+5
+2
+
+2       2-->F
+3       23-->F
+2       232-->F
+1       132-->F
+5       152-->F
+2       152
+4       452-->F
+5       452
+3       453-->F
+2       253-->F
+5       253
+2       253
+No.of page faults 8

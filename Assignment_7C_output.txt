@@ -1,0 +1,2 @@
+Before execl
+a1 aaa aaa.txt abc a.out b1 b2 comm.c db db1 demo2 dir1 direc.c execl.c f1.txt fflag.c file1 file2 fork.c m1 m2 wait.c xyz

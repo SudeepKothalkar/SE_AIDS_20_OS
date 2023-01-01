@@ -1,0 +1,6 @@
+i am in child process 3765
+i am in the child process 3766 
+i am in the child process 3765 
+i am in the parent process 3765 
+i am in the parent process 3765 
+i am in the parent process 3680

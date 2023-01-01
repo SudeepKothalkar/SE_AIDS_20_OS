@@ -1,0 +1,33 @@
+Enter the number of process:3
+
+Enter the 0th process allocated resources:1
+2
+3
+
+Enter the 0th process maximum resources:4
+5
+6
+
+Enter the 1th process allocated resources:3
+4
+5
+
+Enter the 1th process maximum resources:6
+7
+8
+
+Enter the 2th process allocated resources:1
+2
+3
+
+Enter the 2th process maximum resources:3
+4
+5
+
+Enter the available vector:10
+12
+11
+
+ The safe sequence is:  0
+1
+2
